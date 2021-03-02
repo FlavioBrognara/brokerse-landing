@@ -804,7 +804,7 @@ a, span {
   animation-delay: calc(30ms * var(--char-index)); }
 
 .splitting .whitespace {
-  width: 5px; }
+  width: 15px; }
 
 @-webkit-keyframes fadeInUp {
   0% {
@@ -5033,3 +5033,8 @@ body {
       color: #fff;
       -webkit-text-stroke: 0px #fff; } }
 /* ====================== [ End Responsive ] ====================== */
+
+
+.text-green {
+  color: #75dab4;
+}
